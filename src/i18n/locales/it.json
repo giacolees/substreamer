@@ -136,6 +136,8 @@
   "passwordChangedMessage": "La tua password è stata aggiornata correttamente.",
   "failedToChangePassword": "Impossibile modificare la password. Il server potrebbe non supportare questa funzione.",
   "serverInformation": "Informazioni server",
+  "includeServerSearchResults": "Includi i risultati di ricerca del server",
+  "includeServerSearchResultsHint": "Continua a cercare sul server dopo la sincronizzazione della libreria per includere risultati da fonti come Octo-Fiesta.",
   "serverType": "Tipo di server",
   "serverVersion": "Versione server",
   "apiVersion": "Versione API",

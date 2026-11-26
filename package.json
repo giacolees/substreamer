@@ -27,7 +27,7 @@
     "release:major": "node scripts/create-release.js major",
     "reset-changelog": "node scripts/reset-store-changelog.js",
     "terminal-log": "script -a /tmp/claude-terminal.txt",
-    "rebase": "git fetch origin && git rebase origin/master",
+    "rebase": "git fetch upstream && git rebase upstream/master",
     "postinstall": "patch-package",
     "local-ci": "node scripts/local-ci.js"
   },
